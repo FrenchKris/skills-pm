@@ -5,6 +5,7 @@ Des skills Claude qui appliquent une méthode de Product Management **SaaS B2B**
 Je suis **Kristel Lauverjon**, Product Manager certifiée (RNCP niveau 7, PSPO I), avec 10 ans en SaaS B2B : Sales grands comptes, puis Product Marketing. Ce repo montre ma façon de raisonner en produit. L'IA y sert d'outil, la méthode reste au centre.
 
 👉 **Mon portfolio (projets produit en format STAR) : [kristel-lauverjon.framer.website](https://kristel-lauverjon.framer.website/?utm_source=github&utm_medium=readme&utm_campaign=skills-pm)**
+
 👉 **Me contacter : [LinkedIn](https://www.linkedin.com/in/klauverjon/)**
 
 ## En 30 secondes
