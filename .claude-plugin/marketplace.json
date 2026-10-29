@@ -1,0 +1,12 @@
+{
+  "name": "skills-pm",
+  "owner": { "name": "FrenchKris" },
+  "plugins": [
+    {
+      "name": "pm-business",
+      "source": "./plugins/pm-business",
+      "description": "Skills Claude de Product Management B2B : le produit au service du business",
+      "version": "0.1.0"
+    }
+  ]
+}
