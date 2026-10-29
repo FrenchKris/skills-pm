@@ -6,6 +6,9 @@ Toutes les évolutions notables de ce repo. Format inspiré de [Keep a Changelog
 
 ## [Non publié]
 
+### Ajouté
+- `CLAUDE.md` : règles que Claude suit pour modifier ce repo (version, changelog, accord avant envoi).
+
 ### Prévu
 - Skill `priorisation-arbitrage` (v0.2.0).
 - Skill `gtm-launch` (v0.3.0).
